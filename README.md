@@ -8,3 +8,6 @@
   <li> Tiny RTC DS1307 I2C  </li>
   <li> LCD Crystal PCF8574A I2C  </li>
 </ul>
+
+<p>OLED lo he descartado, de momento, por el siguiente motivo:</p>
+<p>La librería U8glib-1.19.1 pretende ejecutarse sobre arquitectura(s) (avr, sam) </p>
